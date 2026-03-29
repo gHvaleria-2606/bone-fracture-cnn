@@ -11,7 +11,8 @@ The goal is to demonstrate how machine learning can assist in medical imaging ta
 
 Disclaimer: This project should not be used as a replacement for professional medical diagnosis.
 
-## Link to model page
+## Link to Model
+https://bone-fracture-cnn.vercel.app/
 
 ## Tech Stack
 - Python
